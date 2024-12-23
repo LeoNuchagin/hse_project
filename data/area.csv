@@ -1,0 +1,262 @@
+country,area
+Earth,510072000.0
+Russia,17098246.0
+Antarctica,14200000.0
+Canada,9984670.0
+China,9596960.0
+Brazil,8510346.0
+Australia,7741220.0
+India,3287263.0
+Argentina,2780400.0
+Kazakhstan,2724910.0
+Algeria,2381741.0
+Democratic Republic of the Congo,2344858.0
+,2210573.0
+Greenland,2166086.0
+Saudi Arabia,2149690.0
+Mexico,1964375.0
+Indonesia,1904569.0
+Sudan,1861484.0
+Libya,1759540.0
+Iran,1648195.0
+Mongolia,1564116.0
+Peru,1285216.0
+Chad,1284000.0
+Niger,1267000.0
+Angola,1246700.0
+Mali,1240192.0
+South Africa,1219090.0
+Colombia,1138910.0
+Ethiopia,1104300.0
+Bolivia,1098581.0
+Mauritania,1030700.0
+Egypt,1001450.0
+Tanzania,947303.0
+Nigeria,923768.0
+Venezuela,912050.0
+Pakistan,882363.0
+Namibia,824292.0
+Mozambique,799380.0
+Turkey,783562.0
+Chile,756102.0
+Zambia,752612.0
+Myanmar,676578.0
+Afghanistan,652864.0
+South Sudan,644329.0
+France,551500.0
+Somalia,637657.0
+Central African Republic,622984.0
+Ukraine,603550.0
+Madagascar,587041.0
+Botswana,582000.0
+Kenya,580367.0
+Thailand,513120.0
+Spain,505370.0
+Turkmenistan,488100.0
+Cameroon,475650.0
+Papua New Guinea,462840.0
+Yemen,455503.0
+Sweden,450295.0
+Uzbekistan,447400.0
+Morocco,446550.0
+Iraq,438317.0
+Paraguay,406752.0
+Zimbabwe,390757.0
+Norway,323802.0
+Japan,377915.0
+Germany,357581.0
+Republic of the Congo,342000.0
+Finland,338145.0
+Vietnam,331340.0
+Malaysia,330621.0
+Ivory Coast,322462.0
+Poland,312685.0
+Oman,309500.0
+Italy,302068.0
+Philippines,300000.0
+Ecuador,283561.0
+Burkina Faso,274200.0
+New Zealand,268838.0
+Gabon,267668.0
+Western Sahara,266000.0
+Guinea,245857.0
+United Kingdom,244376.0
+Uganda,241550.0
+Ghana,238537.0
+Romania,238398.0
+Laos,236800.0
+Guyana,214969.0
+Belarus,207600.0
+Kyrgyzstan,199949.0
+Senegal,196712.0
+Syria,185180.0
+Cambodia,181035.0
+Somaliland,177000.0
+Uruguay,176215.0
+Suriname,163820.0
+Tunisia,163610.0
+Bangladesh,148460.0
+Nepal,147181.0
+Tajikistan,144100.0
+Greece,131957.0
+Nicaragua,130373.0
+North Korea,120538.0
+Malawi,118484.0
+Eritrea,117600.0
+Benin,114763.0
+Honduras,112492.0
+Liberia,111369.0
+Bulgaria,110879.0
+Cuba,109884.0
+Guatemala,108889.0
+Iceland,103000.0
+South Korea,100432.0
+Hungary,93025.0
+Portugal,92225.0
+Jordan,89318.0
+Serbia,88499.0
+Azerbaijan,86600.0
+Austria,83878.0
+United Arab Emirates,83600.0
+Czech Republic,78871.0
+Panama,75320.0
+Sierra Leone,72300.0
+Ireland,70273.0
+Georgia,69700.0
+Sri Lanka,65610.0
+Lithuania,65286.0
+Latvia,64594.0
+Svalbard,62045.0
+Togo,56785.0
+Croatia,56594.0
+Bosnia and Herzegovina,51209.0
+Costa Rica,51100.0
+Slovakia,49035.0
+Dominican Republic,48670.0
+Estonia,45339.0
+Denmark,42947.0
+Netherlands,41865.0
+Switzerland,41291.0
+Bhutan,38394.0
+Guinea-Bissau,36125.0
+Taiwan,35980.0
+Moldova,33847.0
+Belgium,30528.0
+Lesotho,30355.0
+Armenia,29743.0
+Solomon Islands,28896.0
+Albania,28748.0
+Equatorial Guinea,28051.0
+Burundi,27834.0
+Haiti,27750.0
+Rwanda,26338.0
+North Macedonia,25713.0
+Djibouti,23200.0
+Belize,22965.0
+Israel,21937.0
+El Salvador,21041.0
+Slovenia,20273.0
+New Caledonia,18575.0
+Fiji,18272.0
+Kuwait,17818.0
+Eswatini,17363.0
+East Timor,14874.0
+Bahamas,13880.0
+Montenegro,13812.0
+Vanuatu,12189.0
+Falkland Islands,12173.0
+Qatar,11586.0
+Gambia,11295.0
+Jamaica,10991.0
+Kosovo,10887.0
+Lebanon,10452.0
+Cyprus,9251.0
+Puerto Rico,9100.0
+Abkhazia,8665.0
+French Southern Territories,7747.0
+Palestine,6020.0
+Brunei,5765.0
+Trinidad and Tobago,5127.0
+French Polynesia,4167.0
+Transnistria,4163.0
+Cape Verde,4033.0
+South Georgia and the South Sandwich Islands,3903.0
+South Ossetia,3900.0
+Northern Cyprus,3355.0
+Samoa,2842.0
+Luxembourg,2586.0
+Bir Tawil,2060.0
+Mauritius,2040.0
+Comoros,1861.0
+Åland,1581.0
+Faroe Islands,1393.0
+Hong Kong,1114.0
+São Tomé and Príncipe,964.0
+Turks and Caicos Islands,948.0
+Kiribati,811.0
+Bahrain,778.0
+Dominica,750.0
+Tonga,747.0
+Singapore,736.0
+Micronesia,702.0
+Saint Lucia,616.0
+Isle of Man,572.0
+Guam,541.0
+Andorra,468.0
+Palau,459.0
+Northern Mariana Islands,457.0
+Seychelles,457.0
+Curaçao,444.0
+Antigua and Barbuda,442.0
+Barbados,431.0
+Heard Island and McDonald Islands,412.0
+"Saint Helena, Ascension and Tristan da Cunha",394.0
+Saint Vincent and the Grenadines,389.0
+Jan Mayen,377.0
+U.S. Virgin Islands,347.0
+Grenada,345.0
+Malta,315.0
+Maldives,300.0
+Bonaire,288.0
+Cayman Islands,264.0
+Saint Kitts and Nevis,261.0
+Niue,260.0
+Akrotiri and Dhekelia,254.0
+Saint Pierre and Miquelon,242.0
+Cook Islands,236.0
+American Samoa,199.0
+Marshall Islands,181.0
+Aruba,180.0
+Easter Island,163.0
+Liechtenstein,160.0
+British Virgin Islands,151.0
+Wallis and Futuna,142.0
+Christmas Island,135.0
+Jersey,116.0
+Montserrat,103.0
+Anguilla,91.0
+Guernsey,78.0
+San Marino,61.0
+British Indian Ocean Territory,60.0
+Bermuda,54.0
+Saint Martin,53.0
+Bouvet Island,49.0
+Pitcairn Islands,47.0
+Norfolk Island,36.0
+Sint Maarten,34.0
+U.S. Minor Outlying Islands,34.0
+Macau,33.0
+Tuvalu,26.0
+Saint Barthélemy,22.0
+Nauru,21.0
+Sint Eustatius,21.0
+Cocos (Keeling) Islands,14.0
+Saba,13.0
+Tokelau,12.0
+Gibraltar,6.8
+Clipperton Island,6.0
+Ashmore and Cartier Islands,5.0
+Coral Sea Islands,3.0
+Spratly Islands,2.0
+Monaco,2.0
+Vatican City,0.49
